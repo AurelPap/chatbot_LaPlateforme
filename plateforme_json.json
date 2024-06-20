@@ -1,0 +1,1026 @@
+[
+    {
+        "question": "Quel est le titre du programme de formation proposé par La Plateforme ?",
+        "answer": "MSc IT & Business - IA/Data"
+    },
+    {
+        "question": "Quand est la prochaine rentrée pour ce programme ?",
+        "answer": "Septembre 2024"
+    },
+    {
+        "question": "Quelle est la durée totale du programme ?",
+        "answer": "2 ans (de septembre 2024 à août 2026)"
+    },
+    {
+        "question": "Où se déroule la formation ?",
+        "answer": "Marseille"
+    },
+    {
+        "question": "Quelle est la modalité d'enseignement de ce programme ?",
+        "answer": "60% école / 40% entreprise"
+    },
+    {
+        "question": "Quel est le budget des frais de scolarité pour ce programme ?",
+        "answer": "0€ (complètement gratuit)"
+    },
+    {
+        "question": "Quelle certification est attribuée à la fin du programme ?",
+        "answer": "RNCP Niv 7eq. BAC+5"
+    },
+    {
+        "question": "Quel est l'objectif principal du programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Fournir une expertise avancée en intelligence artificielle et analyse de données"
+    },
+    {
+        "question": "Quels sont les pré-requis pour ce programme ?",
+        "answer": "Titulaires d’un BAC+3 en mathématiques appliquées ou fondamentales (Licence, DUT, BUT, …)"
+    },
+    {
+        "question": "Quelles sont les conditions d’entrée pour ce programme ?",
+        "answer": "Après un bachelor IT à La Plateforme_ dans la spécialité choisie. Accès direct possible après un entretien, et la réalisation d’un test destiné à déterminer votre niveau de compétence et l’adéquation entre votre profil et le modèle pédagogique de l’école."
+    },
+    {
+        "question": "Quelle est la langue d'enseignement pour ce programme ?",
+        "answer": "Français"
+    },
+    {
+        "question": "Quel est le rythme d'alternance pour ce programme ?",
+        "answer": "4 semaines en entreprise / 1 semaine à l’école + 1 mois complet à l’école en début d’année et fin d’année"
+    },
+    {
+        "question": "Quelle est la date de début de l’alternance pour ce programme ?",
+        "answer": "07 octobre 2024"
+    },
+    {
+        "question": "Quand s'est déroulé l'événement de rencontre pour le MSc IA/Data 2024 ?",
+        "answer": "Mardi 28 mai 2024 de 17h30 à 20h au 8 rue d’Hozier, 13002 Marseille."
+    },
+    {
+        "question": "Quel est l'objectif de l'événement de rencontre MSc IA/Data ?",
+        "answer": "Découvrir la formation, poser des questions et rencontrer les équipes pédagogiques et les entreprises partenaires."
+    },
+    {
+        "question": "Quelles compétences techniques sont enseignées dans le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Python, SQL, NoSQL Avancé, Ecosystème Big Data (Spark, Hadoop, …), Scrapping de données, Python Flask: Déployer des analyses sur serveur, Machine Learning: Apprentissage supervisé / non supervisé (Régression, Classification, Clustering, …), Deep Learning, Computer vision, OCR, NLP, Algorithme Génétique, MLOps, intégration continue, Introduction à l’IA générative : concepts, applications et enjeux, Interprétabilité et enjeux éthiques de l’IA & réglementation (AI act), Cadrage de projet"
+    },
+    {
+        "question": "Quelles compétences en gestion et en business sont enseignées dans le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Gestion de projet (Agile, Scrum, Kanban, Waterfall, Gantt…), Cahier des charges et gestion documentaire, Gestion d’équipe et suivi, Droit des données et protection des données personnelles, Préparation aux certifications (AWS, CISCO, Google, Framework), Culture IT (Système, virtualisation, conteneurs, blockchain, …), Marketing Fondamental (stratégie, politique produit, enjeux), Analyse et communication visuelle, Développement durable dans le numérique, Négociation et gestion d’entreprise (finance, droit, management stratégique)"
+    },
+    {
+        "question": "Qui sont les intervenants spécialisés dans le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Kawthar Eltarr (Data scientist et Responsable des cursus Bachelor et Master IA de La Plateforme_), Pascal Assens (Directeur des études de La Plateforme_ et spécialiste en Intelligence Artificielle), Thomas Houdaille (Directeur du développement de La Plateforme, Fondateur de Catalix (école de l’IA), 20 ans de conseil en digital. Conférencier et formateur en IA), Joël Gombin (Cofondateur et ex-dirigeant de Datactivist, Conseil en data depuis 12 ans, Conférencier et formateur en IA, Responsable du Lab Data/IA de la Plateforme.)"
+    },
+    {
+        "question": "Quelles sont les entreprises partenaires du Lab IA de La Plateforme ?",
+        "answer": "SNEF, CMA-CGM, La Compagnie Fruitière, Airbus, Thales, One Point, Orange, Eaux de Marseille, NGE, et le groupe ADF, parmi plus de 200 partenaires soutenant le développement de l’école."
+    },
+    {
+        "question": "Avec quelles institutions La Plateforme est-elle associée pour le MSc IT & Business, spécialité IA/Data ?",
+        "answer": "KEDGE Business School"
+    },
+    {
+        "question": "Comment se déroule le processus de candidature pour le programme MSc IA/Data ?",
+        "answer": "Les candidats postulent en ligne sur le site web, passent un test en ligne pour évaluer les compétences en IA & Data, puis sont sélectionnés pour un entretien afin de valider leur projet professionnel et leur motivation. En cas de succès, une pré-inscription est validée et suivie par la formalisation de l'inscription avec des pièces administratives."
+    },
+    {
+        "question": "Quelles sont les compétences requises pour être admis dans le programme MSc IA/Data ?",
+        "answer": "Compétences solides en Python, SQL, traitement et analyse de données, visualisation graphique des données, modélisation des données, paramétrisation et évaluation des modèles d’IA, outils liés au développement de l’IA (Pandas, Numpy, Seaborn, Sklearn, Flask, …)."
+    },
+    {
+        "question": "Quels sont les objectifs principaux de la formation dans le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Obtenir une compréhension profonde des principes fondamentaux et des applications pratiques de l’IA, développer des compétences avancées en programmation, analyse de données et conception de systèmes intelligents, acquérir des compétences en gestion de projet et une compréhension du marché et de ses acteurs, cultiver un esprit critique et innovant pour aborder les défis éthiques de l’IA."
+    },
+    {
+        "question": "Quels sont les modules de formation proposés dans le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Expertise IT (600 h), Fondamentaux & IA tools, Data / Datavisualisation, Intelligence artificielle, Gestion & Management de l’IT (350h), Management de l’IT, Business (240h), Business, Marketing & Finance"
+    },
+    {
+        "question": "Quels sont les avantages spécifiques de La Plateforme dans le domaine de l’IA et de la Data ?",
+        "answer": "Le Lab IA/Data, les partenaires engagés, l'association avec KEDGE Business School, et l'impact sur l’écosystème local à Marseille."
+    },
+    {
+        "question": "Comment se déroule le processus d'inscription une fois admis dans le programme MSc IA/Data ?",
+        "answer": "Réponse à une candidature en ligne, suivi d'un test en ligne, puis un entretien pour valider le projet professionnel. En cas de succès, une pré-inscription est validée, suivie par une inscription finale après la soumission des documents administratifs."
+    },
+    {
+        "question": "Quelles sont les compétences pratiques que les étudiants acquièrent dans le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Développement et déploiement d’applications en IA, analyse de données et interprétation, gestion de projet en entreprise, compréhension des enjeux éthiques et réglementaires de l’IA, et maîtrise des outils et langages associés à l’IA."
+    },
+    {
+        "question": "Quels sont les principaux modules couverts par le programme MSc IT & Business, spécialité IA/Data ?",
+        "answer": "Data / Datavisualisation, Intelligence artificielle, Gestion & Management de l’IT, Management de l’IT, Business, Marketing & Finance, Expertise IT."
+    },
+    {
+        "question": "Qu'est-ce que le programme MSc IT & Business - Cybersécurité de La Plateforme ?",
+        "answer": "Le programme MSc IT & Business - Cybersécurité est conçu pour fournir une expertise technique en sécurité informatique, systèmes et réseaux. Il combine des projets réels et stimulants avec des connaissances approfondies en marketing et en business, offrant ainsi une double compétence pour répondre aux enjeux commerciaux et stratégiques des entreprises."
+    },
+    {
+        "question": "Quelle est la durée et le lieu de ce programme ?",
+        "answer": "Le programme dure 2 ans avec un total de 1200 heures d'enseignement. Il se déroule principalement à Marseille."
+    },
+    {
+        "question": "Quelles sont les modalités de ce programme ?",
+        "answer": "Il se déroule en alternance, avec 60% du temps en entreprise et 40% à l'école. Les frais de scolarité sont entièrement pris en charge (0€)."
+    },
+    {
+        "question": "Quelle est la certification obtenue à la fin du programme ?",
+        "answer": "À la fin du programme, les étudiants obtiennent une certification RNCP de niveau 7, équivalent à un BAC+5."
+    },
+    {
+        "question": "Quels sont les prérequis pour candidater à ce programme ?",
+        "answer": "Les candidats doivent être titulaires d'un bachelor IT en spécialité Cybersécurité à La Plateforme_ ou équivalent. L'admission se fait sur entretien et test visant à évaluer les compétences techniques et l'adéquation avec le modèle pédagogique de l'école."
+    },
+    {
+        "question": "Quand commence la prochaine rentrée pour ce programme ?",
+        "answer": "La prochaine rentrée est prévue pour 2025."
+    },
+    {
+        "question": "Comment se déroule le processus de candidature ?",
+        "answer": "Le processus comprend une candidature en ligne suivie d'un test en ligne évaluant les compétences en Cybersécurité. Les candidats sélectionnés passent ensuite un entretien pour valider leur projet professionnel et leur motivation."
+    },
+    {
+        "question": "Quelle est la langue d'enseignement de ce programme ?",
+        "answer": "La langue d'enseignement est le français."
+    },
+    {
+        "question": "Quels sont les principaux modules enseignés dans ce programme ?",
+        "answer": "Les modules incluent la gestion de projet (Agile, Scrum, Kanban, etc.), la gestion d'équipe, le droit des données, la préparation aux certifications (AWS, CISCO, Google), la culture IT (système, virtualisation, blockchain), ainsi que des modules de marketing, finance et développement durable dispensés en partenariat avec KEDGE Business School."
+    },
+    {
+        "question": "Comment se passe l'évaluation des étudiants dans ce programme ?",
+        "answer": "L'évaluation se fait par des projets individuels et de groupe, suivis de soutenances. Elle inclut également une évaluation finale par un jury composé de professionnels du secteur."
+    },
+    {
+        "question": "Quelles sont les opportunités professionnelles après ce programme ?",
+        "answer": "Les diplômés sont préparés à occuper des postes à responsabilités en sécurité système & réseaux ainsi qu'à explorer des opportunités entrepreneuriales dans le domaine de l'IT."
+    },
+    {
+        "question": "Comment La Plateforme soutient-elle les étudiants dans leur recherche d'alternance ?",
+        "answer": "La Plateforme est soutenue par un réseau d'entreprises partenaires qui facilitent la prise de contact entre les étudiants et les entreprises locales et nationales."
+    },
+    {
+        "question": "Comment puis-je candidater à la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme – PRF-Var?",
+        "answer": "Vous pouvez candidater en remplissant le formulaire de candidature sur le site de La Plateforme – PRF-Var."
+    },
+    {
+        "question": "Combien de temps dure la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "La formation dure 9 mois, incluant 2 mois de stage."
+    },
+    {
+        "question": "Où se déroule la formation 'Développeur web / PRF Var Toulon Brignoles' de La Plateforme?",
+        "answer": "La formation se déroule à Toulon et Brignoles."
+    },
+    {
+        "question": "Quel est le format de la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "La formation est répartie avec 75% du temps en école et 25% en entreprise."
+    },
+    {
+        "question": "Quels sont les pré-requis pour s'inscrire à la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "Il n'y a pas de pré-requis obligatoires, mais un niveau B2/C1 en français est souhaité, et un matériel informatique (ordinateur portable) est obligatoire."
+    },
+    {
+        "question": "Quels modules sont inclus dans la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "Les modules incluent : Remise à niveau informatique, français, mathématiques; Compétences transverses Emploi; Transverse métier du développement; Maquetter des interfaces utilisateurs; Créer et développer des Bases De Données; et Finaliser un projet fonctionnel."
+    },
+    {
+        "question": "Comment est évaluée la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "L'évaluation se fait par projet individuel et par groupe, et des soutenances peuvent avoir lieu en fonction du projet."
+    },
+    {
+        "question": "Quelles sont les conditions d'admission pour la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "Les conditions d'admission incluent un formulaire de candidature, des tests de positionnement, un entretien de motivation, et une réponse aux candidatures 24h après validation par la commission."
+    },
+    {
+        "question": "Quel est l'objectif de la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "L'objectif est de former des développeurs web et web mobile capables de concevoir, développer et faire évoluer des applications web et web mobile en respectant les normes et standards de la profession et les recommandations de sécurité."
+    },
+    {
+        "question": "Quels sont les débouchés possibles après la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "Les débouchés incluent des postes tels que Développeur web, Développeur Frontend, Intégrateur web, Développeur Backend, et Développeur Fullstack."
+    },
+    {
+        "question": "La formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme est-elle rémunérée?",
+        "answer": "Oui, la formation est rémunérée pour les apprenants."
+    },
+    {
+        "question": "Quels sont les avantages de suivre la formation 'Développeur web / PRF Var Toulon Brignoles' à La Plateforme?",
+        "answer": "Les avantages incluent une formation gratuite, un modèle pédagogique unique, des formateurs qualifiés, et un réseau d'entreprises partenaires facilitant l'accès à l'emploi."
+    },
+    {
+        "question": "Quelles sont les spécialisations disponibles à La Plateforme à Marseille ?",
+        "answer": "La Plateforme à Marseille propose plusieurs spécialisations telles que Concepteur développeur web, Développeur logiciel / DevOps, Administrateur sécurité et Développeur spécialiste I.A."
+    },
+    {
+        "question": "Quels sont les frais de scolarité à La Plateforme à Marseille ?",
+        "answer": "Les frais de scolarité à La Plateforme à Marseille sont de 0€."
+    },
+    {
+        "question": "Quelle est la durée des formations à La Plateforme à Marseille ?",
+        "answer": "Les formations à La Plateforme à Marseille durent 3 ans, avec une alternance dès la deuxième année pour certaines spécialisations."
+    },
+    {
+        "question": "Où sont situés les locaux de La Plateforme à Marseille ?",
+        "answer": "La Plateforme à Marseille est située à 8 rue d’Hozier, 13002, ainsi qu'à d'autres adresses comme 35 Boulevard de Paris et 30 Place Jules Guesde."
+    },
+    {
+        "question": "Comment est financée la scolarité à La Plateforme à Marseille ?",
+        "answer": "La scolarité à La Plateforme à Marseille est entièrement financée grâce aux subventions et à l'alternance."
+    },
+    {
+        "question": "La Plateforme à Marseille propose-t-elle des formations en Intelligence Artificielle ?",
+        "answer": "Oui, La Plateforme à Marseille propose des formations en Intelligence Artificielle dans le cadre du Bachelor IA et Msc."
+    },
+    {
+        "question": "Est-ce que La Plateforme à Marseille aide les étudiants à trouver un logement ?",
+        "answer": "La Plateforme à Marseille prévoit l'ouverture d'un campus avec des logements étudiants d'ici 2025 et peut faciliter la recherche de logement en attendant."
+    },
+    {
+        "question": "Quelles sont les conditions d'admission à La Plateforme à Marseille ?",
+        "answer": "Pour être admis à La Plateforme à Marseille, il n'y a pas de conditions de diplôme ni de ressources. Les candidats doivent passer par un processus de candidature et des tests."
+    },
+    {
+        "question": "Qui est Ruben Habib à La Plateforme à Marseille ?",
+        "answer": "Ruben Habib est le Responsable pédagogique du Bachelor web & Start à La Plateforme à Marseille."
+    },
+    {
+        "question": "Quel est le rôle de Mylan Atlani à La Plateforme à Marseille ?",
+        "answer": "Mylan Atlani est le Responsable pédagogique du Bachelor & Sécurité à La Plateforme à Marseille."
+    },
+    {
+        "question": "Qui est Kawther Eltarr à La Plateforme à Marseille ?",
+        "answer": "Kawther Eltarr est le Responsable pédagogique du Bachelor IA et Msc à La Plateforme à Marseille."
+    },
+    {
+        "question": "Quel est le rôle de Céline Emptoz-Lacote à La Plateforme à Marseille ?",
+        "answer": "Céline Emptoz-Lacote est le Responsable pédagogique du Bachelor prépa à La Plateforme à Marseille."
+    },
+    {
+        "question": "Qui est Sadatt Zakari à La Plateforme à Marseille ?",
+        "answer": "Sadatt Zakari est le Responsable pédagogique du Msc DPO à La Plateforme à Marseille."
+    },
+    {
+        "question": "Comment contacter Ruben Habib à La Plateforme à Marseille ?",
+        "answer": "Pour contacter Ruben Habib, Responsable pédagogique du Bachelor web & Start à La Plateforme à Marseille, vous pouvez envoyer un email à ruben-habib@laplateforme.io."
+    },
+    {
+        "question": "Quel est l'email de contact de Mylan Atlani à La Plateforme à Marseille ?",
+        "answer": "Pour contacter Mylan Atlani, Responsable pédagogique du Bachelor & Sécurité à La Plateforme à Marseille, vous pouvez envoyer un email à mylan-atlani@laplateforme.io."
+    },
+    {
+        "question": "Comment joindre Kawther Eltarr à La Plateforme à Marseille ?",
+        "answer": "Pour joindre Kawther Eltarr, Responsable pédagogique du Bachelor IA et Msc à La Plateforme à Marseille, vous pouvez envoyer un email à kawther-eltarr@laplateforme.io."
+    },
+    {
+        "question": "Quel est l'email de contact de Céline Emptoz-Lacote à La Plateforme à Marseille ?",
+        "answer": "Pour contacter Céline Emptoz-Lacote, Responsable pédagogique du Bachelor prépa à La Plateforme à Marseille, vous pouvez envoyer un email à celine-emptoz-lacote@laplateforme.io."
+    },
+    {
+        "question": "Comment joindre Sadatt Zakari à La Plateforme à Marseille ?",
+        "answer": "Pour joindre Sadatt Zakari, Responsable pédagogique du Msc DPO à La Plateforme à Marseille, vous pouvez envoyer un email à sadatt-zakari@laplateforme.io."
+    },
+    {
+        "question": "Y a-t-il des possibilités de logement pour les étudiants à La Plateforme à Marseille ?",
+        "answer": "La Plateforme prévoit l'ouverture d'un campus capable d'accueillir 3000 étudiants sur Marseille d'ici 2025, comprenant des logements étudiants. En attendant, l'équipe peut mettre en relation les étudiants avec des organismes compétents pour faciliter leur recherche de logement."
+    },
+    {
+        "question": "Quelles sont les perspectives de carrière après une formation à La Plateforme à Marseille ?",
+        "answer": "Les formations à La Plateforme à Marseille préparent les étudiants à des métiers dans le domaine du numérique tels que développeur web, spécialiste en intelligence artificielle, administrateur sécurité, etc. Elles offrent des opportunités d'emploi qualifié dans un secteur en forte croissance."
+    },
+    {
+        "question": "Quel est le rôle de Cyril Zimmermann au sein de La Plateforme ?",
+        "answer": "Cyril Zimmermann occupe le poste de PDG de La Plateforme, où il dirige la stratégie globale et supervise le développement des produits et des partenariats."
+    },
+    {
+        "question": "Comment est-ce que je peux soumettre un justificatif en cas d'absence ?",
+        "answer": "Vous pourrez fournir sur l'intra (https://intra.laplateforme.io/) vos justificatifs d'absence. Il ne sera plus nécessaire de faire un mail à administration."
+    },
+    {
+        "question": "Quels sont les conséquences des temps de log et des absences répétés à l'école ?",
+        "answer": "Des temps de log insuffisants ou des absences répétées peuvent entraîner des avertissements AR émis par l'administration de l'école."
+    },
+    {
+        "question": "Comment puis-je contacter l'administration de La Plateforme ?",
+        "answer": "Vous pouvez contacter l'administration de La Plateforme en envoyant un email à administration@laplateforme.io. Ils vous répondront dans les plus brefs délais."
+    },
+    {
+        "question": "Pourquoi ai-je reçu une notification concernant mon temps de connexion insuffisant ?",
+        "answer": "Vous avez reçu cette notification car votre temps de connexion de la semaine dernière n'a pas atteint les 35 heures obligatoires de présence en formation. Cette information a été transmise à votre responsable pédagogique, qui prendra contact avec vous pour discuter de la situation."
+    },
+    {
+        "question": "Quelle est l'obligation de présence hebdomadaire en formation à La Plateforme ?",
+        "answer": "À La Plateforme, les étudiants ont une obligation de présence de 35 heures par semaine en formation. Cela garantit une participation active et régulière aux activités pédagogiques."
+    },
+    {
+        "question": "Que dois-je faire si mon badge ne fonctionne plus ?",
+        "answer": "Si votre badge ne fonctionne plus, veuillez contacter l'administration de La Plateforme par email à administration@laplateforme.io. Ils vous assisteront pour résoudre le problème avec votre badge. Pour toute autre question, vous pouvez également utiliser cette adresse email pour obtenir des réponses supplémentaires."
+    },
+    {
+        "question": "Comment puis-je contacter l'administration pour des questions supplémentaires ?",
+        "answer": "Veuillez contacter l'administration de La Plateforme par email à administration@laplateforme.io."
+    },
+    {
+        "question": "Quelles sont les conditions d'entrée pour la première année du Bachelor IT à La Plateforme ?",
+        "answer": "Les conditions d'entrée pour la première année du Bachelor IT à La Plateforme sont ouvertes à tous, sans prérequis de diplôme ou de ressources. La sélection se base principalement sur la motivation, la capacité à apprendre et l'esprit d'équipe."
+    },
+    {
+        "question": "Quelle est la durée de la première année du Bachelor IT à La Plateforme ?",
+        "answer": "La première année du Bachelor IT à La Plateforme dure une année académique."
+    },
+    {
+        "question": "Quels sont les domaines couverts lors de la première année du Bachelor IT à La Plateforme ?",
+        "answer": "La première année du Bachelor IT à La Plateforme couvre une large gamme de domaines du numérique, y compris le développement web, la cybersécurité, l'intelligence artificielle, les systèmes immersifs, et plus encore. Elle offre une initiation à ces technologies."
+    },
+    {
+        "question": "Quelles sont les modalités d'enseignement pour la première année du Bachelor IT à La Plateforme ?",
+        "answer": "La première année du Bachelor IT à La Plateforme se déroule à 100% en présentiel à l'école. Le modèle pédagogique est basé sur l'apprentissage adaptatif des étudiants, combinant projets individuels et de groupe."
+    },
+    {
+        "question": "Quelles sont les spécialisations disponibles après la première année du Bachelor IT à La Plateforme ?",
+        "answer": "Après la première année du Bachelor IT à La Plateforme, les étudiants peuvent choisir parmi différentes spécialisations telles que le développement logiciel, l'intelligence artificielle, la cybersécurité, les systèmes immersifs, et le développement web."
+    },
+    {
+        "question": "Quelles sont les opportunités d'emploi après le Bachelor IT à La Plateforme ?",
+        "answer": "Le Bachelor IT à La Plateforme prépare les étudiants à des métiers très recherchés dans le secteur numérique. Les opportunités d'emploi varient selon la spécialisation choisie et incluent des rôles de développeur, d'administrateur sécurité, de concepteur d'applications, et plus encore."
+    },
+    {
+        "question": "Est-ce que le Bachelor IT à La Plateforme offre des formations en alternance ?",
+        "answer": "Oui, à partir de la deuxième année, le Bachelor IT à La Plateforme propose un modèle alterné avec deux semaines en entreprise et une semaine à l'école. Les étudiants sont rémunérés pendant leur période d'alternance."
+    },
+    {
+        "question": "Comment se déroule la sélection pour le Bachelor IT à La Plateforme ?",
+        "answer": "La sélection pour le Bachelor IT à La Plateforme comprend un entretien suivi d'un test visant à évaluer l'adéquation du profil de l'étudiant avec le modèle pédagogique de l'école."
+    },
+    {
+        "question": "Quelle est la certification obtenue à la fin du Bachelor IT à La Plateforme ?",
+        "answer": "À la fin du Bachelor IT à La Plateforme, les étudiants obtiennent une certification de niveau Bachelor Bac +3, reconnue par l'État."
+    },
+    {
+        "question": "Quels sont les avantages financiers pour les étudiants du Bachelor IT à La Plateforme ?",
+        "answer": "Les frais de scolarité sont entièrement gratuits pour les apprenants du Bachelor IT à La Plateforme. De plus, les étudiants en alternance sont rémunérés par l'entreprise."
+    },
+    {
+        "question": "Quelles sont les possibilités de stage durant le Bachelor IT à La Plateforme ?",
+        "answer": "Les étudiants du Bachelor IT à La Plateforme ont accès à un réseau d'entreprises partenaires pour des stages obligatoires, offrant une expérience pratique enrichissante."
+    },
+    {
+        "question": "Le Bachelor IT à La Plateforme propose-t-il des programmes d'échange international ?",
+        "answer": "Oui, le Bachelor IT à La Plateforme encourage les étudiants à participer à des programmes d'échange international dans des universités partenaires à l'étranger, enrichissant ainsi leur expérience académique et culturelle."
+    },
+    {
+        "question": "Comment l'école soutient-elle l'innovation technologique dans le cadre du Bachelor IT ?",
+        "answer": "L'école favorise l'innovation technologique à travers des projets collaboratifs, des laboratoires de recherche et des événements dédiés, permettant aux étudiants du Bachelor IT à La Plateforme de développer des solutions innovantes dans divers domaines numériques."
+    },
+    {
+        "question": "Quels sont les critères d'évaluation utilisés durant le Bachelor IT à La Plateforme ?",
+        "answer": "Les étudiants du Bachelor IT à La Plateforme sont évalués sur la base de projets individuels et de groupe, d'examens écrits et oraux, ainsi que sur leur participation active en classe."
+    },
+    {
+        "question": "Quels sont les principaux projets collaboratifs proposés pendant le Bachelor IT à La Plateforme ?",
+        "answer": "Pendant le Bachelor IT à La Plateforme, les étudiants participent à des projets collaboratifs tels que le développement d'applications innovantes, la création de solutions IoT, et la conception de systèmes intelligents pour des industries spécifiques."
+    },
+    {
+        "question": "Comment se déroule l'accompagnement professionnel des étudiants pendant le Bachelor IT à La Plateforme ?",
+        "answer": "L'accompagnement professionnel pendant le Bachelor IT à La Plateforme inclut des ateliers de développement personnel, des séminaires sur la préparation aux entretiens, et des rencontres avec des professionnels du secteur pour faciliter l'insertion professionnelle des étudiants."
+    },
+    {
+        "question": "Quels sont les partenariats industriels significatifs du Bachelor IT à La Plateforme ?",
+        "answer": "Le Bachelor IT à La Plateforme bénéficie de partenariats avec des entreprises renommées dans le secteur numérique, offrant aux étudiants des opportunités de stages, de projets appliqués, et de rencontres avec des experts du domaine."
+    },
+    {
+        "question": "Comment les étudiants du Bachelor IT à La Plateforme peuvent-ils accéder à des ressources technologiques avancées ?",
+        "answer": "Les étudiants du Bachelor IT à La Plateforme ont accès à des plateformes de développement en ligne, et à une bibliothèque numérique riche en ressources spécialisées dans le domaine de l'informatique."
+    },
+    {
+        "question": "Quelle est la durée du programme Bachelor IT - LP Short Track à La Plateforme ?",
+        "answer": "Le programme Bachelor IT - LP Short Track à La Plateforme dure trois ans."
+    },
+    {
+        "question": "Quel est l'objectif principal du programme Bachelor IT - LP Short Track à La Plateforme ?",
+        "answer": "Le programme vise à former des professionnels compétents dans le domaine de l'informatique en leur offrant une formation pratique et intensive."
+    },
+    {
+        "question": "Quels sont les principaux domaines de spécialisation proposés dans le Bachelor IT - LP Short Track ?",
+        "answer": "Le programme offre des spécialisations en développement d'applications, en sécurité informatique et en gestion de projets technologiques."
+    },
+    {
+        "question": "Quelles sont les opportunités de stage offertes aux étudiants du Bachelor IT - LP Short Track à La Plateforme ?",
+        "answer": "Les étudiants bénéficient de nombreuses opportunités de stage leur permettant d'acquérir une expérience professionnelle pratique avant de rejoindre le marché du travail."
+    },
+    {
+        "question": "Comment le Bachelor IT - LP Short Track à La Plateforme prépare-t-il les étudiants aux défis du secteur informatique moderne ?",
+        "answer": "Le programme intègre les dernières technologies et enseigne des compétences spécifiques adaptées aux besoins actuels du marché de l'emploi en informatique."
+    },
+    {
+        "question": "Comment puis-je candidater à la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme – PRF-Var?",
+        "answer": "Vous pouvez candidater en remplissant le formulaire de candidature sur le site de La Plateforme – PRF-Var."
+    },
+    {
+        "question": "Combien de temps dure la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "La formation dure 4 mois, incluant 10 jours de stage."
+    },
+    {
+        "question": "Où se déroule la formation 'Langage Informatique à la carte - Toulon / Brignoles' de La Plateforme?",
+        "answer": "La formation se déroule à Toulon et Brignoles."
+    },
+    {
+        "question": "Quel est le format de la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "La formation est répartie avec 85% du temps en école et 15% en entreprise."
+    },
+    {
+        "question": "Quels sont les pré-requis pour s'inscrire à la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "Il n'y a pas de pré-requis obligatoires, mais un niveau B2/C1 en français est souhaité, et un matériel informatique (ordinateur portable) est obligatoire."
+    },
+    {
+        "question": "Quels langages informatiques sont couverts dans la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "Les langages couverts incluent HTML, CSS, PHP, SQL, Javascript, Python, et C."
+    },
+    {
+        "question": "Comment est évaluée la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "L'évaluation se fait par projet individuel et par groupe, et des soutenances peuvent avoir lieu en fonction du projet."
+    },
+    {
+        "question": "Quelles sont les conditions d'admission pour la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "Les conditions d'admission incluent un formulaire de candidature, des tests de positionnement, un entretien de motivation, et une réponse aux candidatures 24h après validation par la commission."
+    },
+    {
+        "question": "Quel est l'objectif de la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "L'objectif est de se spécialiser dans un langage informatique spécifique et de développer les compétences nécessaires pour devenir développeur web ou développeur spécialisé."
+    },
+    {
+        "question": "Quels sont les débouchés possibles après la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "Les débouchés incluent des postes tels que Développeur web, Développeur Frontend, Intégrateur web, Développeur Backend, et Développeur Fullstack."
+    },
+    {
+        "question": "La formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme est-elle rémunérée?",
+        "answer": "Oui, la formation est rémunérée pour les apprenants."
+    },
+    {
+        "question": "Quels sont les avantages de suivre la formation 'Langage Informatique à la carte - Toulon / Brignoles' à La Plateforme?",
+        "answer": "Les avantages incluent une formation gratuite, un modèle pédagogique unique, des formateurs qualifiés, et un réseau d'entreprises partenaires facilitant l'accès à l'emploi."
+    },
+    {
+        "question": "Quel est l'intitulé de la formation proposée par Centrale Méditerranée et La Plateforme à Nice ?",
+        "answer": "Post-Graduate IA : CentraleDigitalLab@LaPlateforme."
+    },
+    {
+        "question": "Quels sont les objectifs de la formation Post-Graduate IA ?",
+        "answer": "Les objectifs de la formation sont de développer une méthodologie de travail tournée vers l’innovation, des compétences tech (machine learning, science des données, deep learning), des compétences projets (prototypage rapide, méthodes agiles, développement piloté par les tests, intégration continue, outils du développeur), et des soft skills (travail en équipe, relationnel, gestion du changement)."
+    },
+    {
+        "question": "Qui peut candidater à la formation Post-Graduate IA ?",
+        "answer": "La formation est ouverte aux étudiants en fin de cursus Master 2, ainsi qu’aux diplômés d’écoles d’ingénieur, d’informatique ou de commerce (BAC +5) ayant une appétence pour l’IA et les Data Sciences."
+    },
+    {
+        "question": "Quels types de projets sont réalisés durant la formation Post-Graduate IA ?",
+        "answer": "Deux projets sont réalisés par équipes pour répondre à une problématique industrielle réelle rencontrée par une entreprise innovante du bassin Méditerranéen. Les projets sont en rapport avec l’intelligence artificielle, les objets connectés, le web, etc."
+    },
+    {
+        "question": "Quelle est la durée du stage en fin de formation Post-Graduate IA ?",
+        "answer": "Un stage d’une durée de 5 à 6 mois conclut la formation."
+    },
+    {
+        "question": "Quel est le coût de la formation Post-Graduate IA ?",
+        "answer": "Le coût de la formation est de 2800 €, mais elle est gratuite pour les demandeurs d’emploi (places limitées)."
+    },
+    {
+        "question": "Où se déroule la formation Post-Graduate IA ?",
+        "answer": "La formation se déroule à Nice."
+    },
+    {
+        "question": "Quels emplois sont accessibles après la formation Post-Graduate IA ?",
+        "answer": "Les emplois accessibles incluent Développeur, Développeur en IA, Consultant en IA, Consultant Data, Data Analyst, Data Scientist, Data Engineer, Data Architect, Data Ops, et Machine Learning Engineer."
+    },
+    {
+        "question": "Quelles compétences sont développées pendant la formation Post-Graduate IA ?",
+        "answer": "Les compétences développées incluent machine learning, science des données, deep learning, prototypage rapide, méthodes agiles, développement piloté par les tests, intégration continue, travail en équipe, relationnel, et gestion du changement."
+    },
+    {
+        "question": "Combien de projets les étudiants réalisent-ils durant la formation Post-Graduate IA ?",
+        "answer": "Les étudiants réalisent deux projets durant la formation."
+    },
+    {
+        "question": "Quels sont les types d'entreprises avec lesquelles les étudiants collaborent pour les projets ?",
+        "answer": "Les étudiants collaborent avec des start-ups, des PME et des membres du Club Top 20."
+    },
+    {
+        "question": "Comment les étudiants sont-ils encadrés durant les projets ?",
+        "answer": "Les étudiants sont suivis par un coach et un tuteur scientifique, et sont en contact régulier avec leur client."
+    },
+    {
+        "question": "Quelle méthode pédagogique est utilisée dans la formation Post-Graduate IA ?",
+        "answer": "La formation utilise une pédagogie par projets."
+    },
+    {
+        "question": "Quel est le format des projets dans la formation Post-Graduate IA ?",
+        "answer": "Les projets sont réalisés par équipes de 3 à 6 étudiants sur plusieurs sprints, pour une durée totale de 8 à 10 semaines."
+    },
+    {
+        "question": "Quelles compétences en soft skills sont développées dans la formation Post-Graduate IA ?",
+        "answer": "Les compétences en soft skills développées incluent le travail en équipe, le relationnel, et la gestion du changement."
+    },
+    {
+        "question": "Qu'est-ce que la formation Administration Sécurité des Systèmes d'Informations à La Plateforme ?",
+        "answer": "La formation spécialiste en Administration Sécurité est une formation qui prépare au métier d’Administrateur Sécurité (Bac +3). Elle fait partie des formations de la Cybersécurité."
+    },
+    {
+        "question": "Quels sont les débouchés après la formation Administration Sécurité des Systèmes d'Informations ?",
+        "answer": "Les débouchés incluent des postes tels que Gestionnaire du Système du Réseau et des Données, Administrateur Système, Administrateur Réseaux, Administrateur Données, Administrateur de solutions de sécurité, DevOps, Responsable de la Sécurité des Systèmes d’Information, Assistant RSSI, Chargé de sécurité informatique, Consultant en cybersécurité, Opérateur analyste SOC, Gestionnaire de crise de cybersécurité, Analyste de menaces cybersécurité, Évaluateur de la sécurité des systèmes l’information."
+    },
+    {
+        "question": "Quelles sont les conditions d'entrée pour la formation Administration Sécurité des Systèmes d'Informations ?",
+        "answer": "L'entrée directe en BAC+2 est possible, et l'entrée en BAC+3 nécessite un dossier et un test démontrant vos acquis, suivis d'entretiens avec les responsables pédagogiques."
+    },
+    {
+        "question": "Quel est le programme de la formation Administration Sécurité des Systèmes d'Informations ?",
+        "answer": "Le programme est structuré sur trois années avec une première année dédiée à l'initiation et la découverte en IT, suivi d'une deuxième année d'approfondissement en administration système et enfin une troisième année orientée vers l'expertise en administration et sécurité."
+    },
+    {
+        "question": "Quelles sont les modalités d'évaluation pendant la formation Administration Sécurité des Systèmes d'Informations ?",
+        "answer": "Toutes les formations post Bachelor IT ont une évaluation finale effectuée par un jury composé de professionnels du secteur, comprenant différentes épreuves indiquées dans le référentiel."
+    },
+    {
+        "question": "Comment puis-je candidater à la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme – PRF-Var?",
+        "answer": "Vous pouvez candidater en remplissant le formulaire de candidature sur le site de La Plateforme – PRF-Var."
+    },
+    {
+        "question": "Combien de temps dure la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "La formation dure 10 mois, incluant 2 mois de stage."
+    },
+    {
+        "question": "Où se déroule la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' de La Plateforme?",
+        "answer": "La formation se déroule à Brignoles, Gap et Toulon."
+    },
+    {
+        "question": "Quel est le format de la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "La formation est répartie avec 80% du temps en école et 20% en entreprise."
+    },
+    {
+        "question": "Quels sont les pré-requis pour s'inscrire à la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "Il n'y a pas de pré-requis obligatoires, mais un niveau B2/C1 en français est souhaité, et un matériel informatique (ordinateur portable) est obligatoire."
+    },
+    {
+        "question": "Quels modules sont couverts dans la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "Les modules incluent le support utilisateur, la maintenance et sécurisation de l'infrastructure centralisée, et la contribution à l'évolution et sécurisation de l'infrastructure."
+    },
+    {
+        "question": "Comment est évaluée la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "L'évaluation se fait par projet individuel et par groupe, et des soutenances peuvent avoir lieu en fonction du projet."
+    },
+    {
+        "question": "Quelles sont les conditions d'admission pour la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "Les conditions d'admission incluent un formulaire de candidature, des tests de positionnement, un entretien de motivation, et une réponse aux candidatures 24h après validation par la commission."
+    },
+    {
+        "question": "Quel est l'objectif de la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "L'objectif est de devenir un technicien supérieur qualifié, capable de mettre en service, maintenir et exploiter les infrastructures informatiques d'une organisation."
+    },
+    {
+        "question": "Quels sont les débouchés possibles après la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "Les débouchés incluent des postes tels que Technicien systèmes et réseaux, Technicien support, Technicien d’exploitation, et Technicien informatique."
+    },
+    {
+        "question": "La formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme est-elle rémunérée?",
+        "answer": "Oui, la formation est rémunérée pour les apprenants."
+    },
+    {
+        "question": "Quels sont les avantages de suivre la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "Les avantages incluent une formation gratuite, un modèle pédagogique unique, des formateurs qualifiés, et un réseau d'entreprises partenaires facilitant l'accès à l'emploi."
+    },
+    {
+        "question": "Y a-t-il des possibilités de poursuite après la formation 'Technicien Supérieur Systèmes et Réseaux (TSSR)' à La Plateforme?",
+        "answer": "Oui, il est possible de poursuivre avec le Titre Professionnel de Concepteur Développeur d’Applications (CDA) ou le Bachelor IT 2ème année, spécialité administration systèmes & réseaux."
+    },
+    {
+        "question": "Quelles sont les informations principales sur le programme MSc IT & Business, spécialité Ingénierie du Web à La Plateforme ?",
+        "answer": "Le programme dure 2 ans (1200 heures au total) et se déroule à Marseille. Il combine une formation à 60% à l'école et à 40% en entreprise. Les frais de scolarité sont de 0€. Le programme est certifié au niveau 7 RNCP (équivalent BAC+5)."
+    },
+    {
+        "question": "Quels sont les objectifs du programme MSc IT & Business, spécialité Ingénierie du Web à La Plateforme ?",
+        "answer": "Former des experts en développement web et web mobile capables de résoudre des problèmes complexes. Développer des compétences en gestion et management de l'IT. Comprendre les enjeux business et stratégiques des entreprises."
+    },
+    {
+        "question": "Quels sont les modules principaux du programme MSc IT & Business, spécialité Ingénierie du Web ?",
+        "answer": "Les modules incluent : Architecture de projet, Maîtrise de différents Framework (Angular, Vue.js, React), Analyse des données Web, UX et UI avancée, Optimisation de sites, Gestion de la fiabilité, Initiation à la réalité augmentée, Utilisation de microservices avancés, Gestion de projet, Cahier des charges et gestion documentaire, Gestion d’équipe et suivi, Droit des données et protection des données personnelles, Préparation aux certifications, Culture IT, Marketing Fondamental, Analyse et communication visuelle, Développement durable dans le numérique, Négociation et gestion d’entreprise."
+    },
+    {
+        "question": "Quelles sont les conditions d'entrée pour le programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "Les candidats doivent être titulaires d'un bachelor IT à La Plateforme_ dans la spécialité choisie ou équivalent. L'admission se fait après un entretien et un test visant à évaluer le niveau de compétence et l'adéquation avec le modèle pédagogique de l'école."
+    },
+    {
+        "question": "Quel est le rythme d'alternance du programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "Le programme suit un rythme alterné : quatre semaines en entreprise suivies d'une semaine à l’école, avec un mois complet à l’école en début et fin d'année."
+    },
+    {
+        "question": "Comment se déroule l'évaluation dans le programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "L'évaluation se fait par projet individuel et par groupe, avec des soutenances selon la taille du projet. Il y a une évaluation finale effectuée par un jury composé de professionnels du secteur, comprenant différentes épreuves spécifiées dans le référentiel."
+    },
+    {
+        "question": "Quelles sont les opportunités professionnelles après le programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "Les diplômés peuvent accéder à des postes à responsabilités dans le domaine de l'IT ou se lancer dans l'entrepreneuriat. La formation en alternance leur fournit une première expérience professionnelle significative."
+    },
+    {
+        "question": "Quelles sont les modalités de financement du programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "Les frais de scolarité sont entièrement gratuits pour les apprenants. Pendant la période d'alternance, les étudiants sont rémunérés par l'entreprise."
+    },
+    {
+        "question": "Quelles sont les étapes du processus de candidature pour le programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "Le processus comprend deux étapes : soumission d'une candidature en ligne sur le site web de l'école, suivi d'un test en ligne évaluant les compétences en développement web & web mobile. Les candidats retenus passent ensuite un entretien pour valider leur projet professionnel et leur motivation."
+    },
+    {
+        "question": "Quels sont les pré-requis pour candidater au programme MSc Ingénierie du Web à La Plateforme ?",
+        "answer": "Les candidats doivent maîtriser les langages web tels que HTML, CSS, PHP, SQL, JS, Git, ainsi que des frameworks comme React / Rooter ou Slim. Des notions de conception UML sont également utiles. Il n'y a pas de critères d'âge pour accéder à la formation."
+    },
+    {
+        "question": "Quels sont les partenaires et soutiens de La Plateforme dans le programme MSc Ingénierie du Web ?",
+        "answer": "La Plateforme est soutenue par plus de 200 partenaires, y compris des grandes entreprises locales comme le Crédit Agricole Alpes Provence, la Région Sud, le Département des Bouches du Rhône et la Métropole Aix Marseille Provence. L'école est également co-fondée avec le Club Top 20 et membre du programme Grande Ecole du Numérique."
+    },
+    {
+        "question": "Qu'est-ce que la prépa Master IT & Business – Ingénierie du web ?",
+        "answer": "La prépa Master IT & Business – Ingénierie du web est un programme en ligne intensif de 17 semaines qui prépare les étudiants à l'examen d'entrée du Master IT & Business – WEB de La Plateforme. Il renforce les compétences en développement web & web mobile et inclut des ateliers sur les soft skills et la recherche d'alternance."
+    },
+    {
+        "question": "Quels sont les prérequis pour candidater à ce programme ?",
+        "answer": "Les candidats doivent être titulaires d'au moins un titre de développeur Web & Web mobile ou d'un niveau équivalent, avec une maîtrise des langages web tels que HTML, CSS, PHP, SQL, JS avancé et Git. Des connaissances sur des frameworks comme React / Router ou Slim ainsi que des notions de conception UML sont également recommandées."
+    },
+    {
+        "question": "Quel est le processus de candidature pour la prépa Master IT & Business – Ingénierie du web ?",
+        "answer": "Le processus comprend deux étapes : d'abord, une candidature en ligne sur le site web de La Plateforme, puis la passation d'un test en ligne de 70 questions évaluant les compétences en programmation web et web mobile ainsi que la compréhension des bases de données. Les candidats peuvent passer le test jusqu'à une semaine avant le début d'une session."
+    },
+    {
+        "question": "Quel est le format de la prépa Master IT & Business – Ingénierie du web ?",
+        "answer": "Le programme est entièrement en ligne avec 16 rendez-vous hebdomadaires le mardi soir de 18h30 à 21h, et un accès continu aux documentations et exercices sur l'espace en ligne de La Plateforme. Deux journées en présentiel à Marseille sont également proposées pour les projets collaboratifs et les sessions de recherche d'alternance."
+    },
+    {
+        "question": "Quels sont les projets inclus dans le programme de préparation ?",
+        "answer": "Le programme comprend cinq projets majeurs couvrant le développement web et mobile. Chaque projet est évalué par un jury professionnel et contribue à la construction du portfolio des étudiants. Les projets incluent la création d'une To-Do List avec module de connexion, un site de référencement de films, une boutique en ligne, un projet de gestion des dépenses, et une application mobile de chat."
+    },
+    {
+        "question": "Quelles sont les conditions d'admission au programme MSc IT & Business – WEB de La Plateforme après la prépa Master ?",
+        "answer": "Pour être admis en externe au programme MSc IT & Business – WEB, les candidats doivent présenter un dossier et des projets démontrant leurs capacités techniques. Ils doivent également trouver une entreprise partenaire pour financer leur parcours en alternance."
+    },
+    {
+        "question": "Quelle est la charge de travail estimée pour ce programme ?",
+        "answer": "La charge de travail hebdomadaire peut atteindre jusqu'à 15 heures, comprenant des lectures supplémentaires et des devoirs. Le programme est conçu pour être compatible avec un emploi ou d'autres études à temps plein."
+    },
+    {
+        "question": "Quel est le coût du programme de prépa Master IT & Business – Ingénierie du web ?",
+        "answer": "Actuellement, le programme est proposé gratuitement aux participants. Il vise à sélectionner les candidats externes les plus aptes à rejoindre les étudiants du bachelor IT WEB de La Plateforme."
+    },
+    {
+        "question": "Où se déroulent les cours de la prépa Master IT & Business – Ingénierie du web ?",
+        "answer": "Les cours se déroulent entièrement en ligne avec des sessions hebdomadaires et un accès continu aux ressources sur la plateforme en ligne de La Plateforme. Des sessions facultatives en présentiel à Marseille sont également prévues pour les interactions directes et les projets collaboratifs."
+    },
+    {
+        "question": "Comment rejoindre les équipes de La Plateforme ?",
+        "answer": "Pour rejoindre les équipes de La Plateforme, vous pouvez consulter nos offres d'emploi sur notre site web et postuler directement en ligne."
+    },
+    {
+        "question": "Quelles sont les valeurs prônées par La Plateforme dans ses politiques RH ?",
+        "answer": "La Plateforme s'engage à favoriser la diversité, l'inclusion et l'équité dès la phase de recrutement, valorisant les singularités de chacun au sein de ses équipes."
+    },
+    {
+        "question": "Quels types de contrats propose La Plateforme pour les formations ?",
+        "answer": "La Plateforme propose des contrats d'alternance et des contrats d'apprentissage pour ses formations, permettant aux apprenants d'accéder à l'univers professionnel tout en se formant."
+    },
+    {
+        "question": "Quelles compétences sont nécessaires pour travailler en tant que responsable pédagogique chez La Plateforme ?",
+        "answer": "Les compétences requises pour le poste de responsable pédagogique incluent un accompagnement pédagogique des apprenants, la conception de contenus pédagogiques, la maîtrise des langages de programmation et des techniques cloud, ainsi que l'animation d'activités et la gestion des formations certifiantes."
+    },
+    {
+        "question": "Quelles sont les missions du poste de Community Manager chez La Plateforme ?",
+        "answer": "Le Community Manager chez La Plateforme est responsable de la gestion des réseaux sociaux, du contenu digital et de l'engagement communautaire, contribuant à la visibilité et à l'interaction avec la communauté de La Plateforme."
+    },
+    {
+        "question": "Quelles sont les formations proposées par La Plateforme ?",
+        "answer": "La Plateforme propose une gamme variée de formations telles que le Bachelor IT, le Master of Science en différentes spécialisations comme l'Intelligence Artificielle et la Cybersécurité, ainsi que des programmes d'Innovation Lab."
+    },
+    {
+        "question": "Où se situent les campus de La Plateforme ?",
+        "answer": "Les campus de La Plateforme sont situés à Marseille, Cannes, Toulon et Martigues."
+    },
+    {
+        "question": "Comment obtenir plus d'informations sur La Plateforme ?",
+        "answer": "Pour plus d'informations sur La Plateforme, vous pouvez visiter notre site web et consulter notre brochure."
+    },
+    {
+        "question": "Quelles sont les valeurs fondamentales de La Plateforme ?",
+        "answer": "La Plateforme est fondée sur la gratuité, l'inclusion et l'engagement envers la diversité. Ces valeurs sont au cœur de toutes ses politiques, y compris celles en matière de ressources humaines."
+    },
+    {
+        "question": "Quelles sont les opportunités offertes aux jeunes décrocheurs par La Plateforme ?",
+        "answer": "La Plateforme offre aux jeunes décrocheurs des quartiers prioritaires des formations au codage informatique via l'alternance et les contrats d'apprentissage, facilitant leur insertion professionnelle."
+    },
+    {
+        "question": "Comment La Plateforme favorise-t-elle l'inclusion au sein de ses équipes ?",
+        "answer": "La Plateforme favorise l'inclusion en valorisant les singularités de chacun dans ses équipes dès le processus de recrutement, assurant ainsi une diversité et une équité réelles."
+    },
+    {
+        "question": "Quelles compétences sont recherchées pour les métiers liés au développement web chez La Plateforme ?",
+        "answer": "Les métiers liés au développement web chez La Plateforme nécessitent des compétences avancées en programmation (C++, Java, Python, etc.), une culture informatique solide, et la capacité à travailler en équipe."
+    },
+    {
+        "question": "Quelles sont les étapes du processus de candidature chez La Plateforme ?",
+        "answer": "Le processus de candidature chez La Plateforme comprend la consultation des offres d'emploi sur le site, la soumission d'une candidature en ligne, et éventuellement des entretiens pour évaluer les compétences et la motivation."
+    },
+    {
+        "question": "Qu'est-ce que l'Innovation Lab de La Plateforme propose aux participants ?",
+        "answer": "L'Innovation Lab de La Plateforme permet aux participants de co-créer des solutions numériques innovantes avec les usagers, explorant des domaines comme l'usage urbain et le web décentralisé."
+    },
+    {
+        "question": "Comment contacter La Plateforme pour plus d'informations sur les formations et les opportunités professionnelles ?",
+        "answer": "Pour obtenir plus d'informations sur les formations et les opportunités professionnelles chez La Plateforme, vous pouvez les contacter via leur site web ou par téléphone au 04.84.89.43.69."
+    },
+    {
+        "question": "Quels sont les avantages à travailler pour La Plateforme ?",
+        "answer": "Travailler pour La Plateforme offre l'opportunité de contribuer à un projet éducatif ambitieux et à impact, en rejoignant une équipe dynamique dans un environnement stimulant."
+    },
+    {
+        "question": "Qu'est-ce que le DPO (Data Protection Officer) ?",
+        "answer": "Le DPO est la personne en charge de la protection des données à caractère personnel au sein des organismes publics ou privés. Il conseille et accompagne les organismes dans leur conformité avec le cadre légal relatif aux données personnelles."
+    },
+    {
+        "question": "Quelle certification est délivrée par la formation DPO ?",
+        "answer": "La formation délivre un titre RNCP Délégué à la protection des données personnelles de niveau 7 européen, équivalent à un BAC +5."
+    },
+    {
+        "question": "Quels sont les objectifs de la formation DPO ?",
+        "answer": "Les objectifs de la formation sont :\n- Cadrage juridique & technique\n- Implémenter une politique de sécurité et de conformité\n- Gérer des incidents de sécurité et des demandes\n- Accompagner les utilisateurs dans l’application des règles."
+    },
+    {
+        "question": "Quels sont les secteurs qui recrutent des DPO ?",
+        "answer": "Les secteurs qui recrutent des DPO incluent l'administration publique, les technologies et services de l’information, les banques, les hôpitaux et le secteur de l’assurance."
+    },
+    {
+        "question": "Quelles sont les conditions d’entrée pour la formation DPO ?",
+        "answer": "Les conditions d'entrée incluent la possession d'un bachelor en IT spécialisé en cybersécurité à la Plateforme, ou des bases en administration système, réseaux, données ou en droit. Un dossier de candidature démontrant les acquis est requis, suivi d’entretiens avec les responsables pédagogiques."
+    },
+    {
+        "question": "Quelles sont les compétences techniques principales enseignées dans le programme de concepteur-développeur web de l'école de la plateforme ?",
+        "answer": "Le programme enseigne principalement HTML, CSS, JavaScript pour le front-end, ainsi que PHP et MySQL pour le back-end. Il inclut également l'utilisation de frameworks comme Bootstrap et jQuery."
+    },
+    {
+        "question": "Comment l'école de la plateforme prépare-t-elle ses étudiants à la réalité du marché du travail dans le domaine du développement web ?",
+        "answer": "L'école offre des projets pratiques basés sur des cas réels, des stages en entreprise, et met l'accent sur le développement de compétences pratiques en programmation, en conception de sites web responsives, et en gestion de bases de données."
+    },
+    {
+        "question": "Quelles sont les opportunités de carrière typiques après avoir suivi la formation de concepteur-développeur web à l'école de la plateforme ?",
+        "answer": "Les diplômés peuvent accéder à des postes de développeur web front-end, back-end ou full-stack, ainsi qu'à des rôles spécialisés comme développeur WordPress, développeur d'applications web, ou consultant en technologie web."
+    },
+    {
+        "question": "Comment l'école de la plateforme aide-t-elle ses étudiants à construire un portfolio attractif pour leur carrière de concepteur-développeur web ?",
+        "answer": "Elle encourage les étudiants à travailler sur des projets individuels et collaboratifs significatifs, à participer à des hackathons et à présenter leurs réalisations sur des plateformes en ligne telles que GitHub et Behance."
+    },
+    {
+        "question": "Quels sont les avantages spécifiques de suivre la formation de concepteur-développeur web à l'école de la plateforme par rapport à d'autres programmes similaires ?",
+        "answer": "L'école se distingue par son approche pratique et son soutien continu aux étudiants, y compris des sessions de mentorat individuelles, un accès à des ressources en ligne et une communauté active d'anciens élèves."
+    },
+    {
+        "question": "Comment l'école de la plateforme intègre-t-elle les dernières technologies et tendances dans son programme de formation de concepteur-développeur web ?",
+        "answer": "Elle met à jour régulièrement son programme pour inclure les technologies émergentes telles que les frameworks JavaScript modernes, les applications web progressives (PWA), et les bonnes pratiques de sécurité web."
+    },
+    {
+        "question": "Quelles sont les compétences non techniques importantes enseignées à l'école de la plateforme pour compléter la formation de concepteur-développeur web ?",
+        "answer": "L'école met également l'accent sur les compétences en gestion de projet, la collaboration d'équipe, la résolution de problèmes, et la communication efficace, essentielles pour réussir dans un environnement de travail dynamique."
+    },
+    {
+        "question": "Quelles sont les certifications ou reconnaissances offertes aux étudiants à la fin du programme de concepteur-développeur web à l'école de la plateforme ?",
+        "answer": "Les étudiants peuvent obtenir des certifications reconnues par l'industrie, telles que des certificats de compétence en développement web front-end et back-end, ainsi que des attestations de participation à des projets spécifiques."
+    },
+    {
+        "question": "Comment l'école de la plateforme soutient-elle la transition des étudiants vers le marché du travail après l'obtention de leur diplôme en concepteur-développeur web ?",
+        "answer": "Elle organise des sessions de préparation à l'entretien, des événements de réseautage avec des employeurs potentiels, et offre un accompagnement personnalisé pour aider les étudiants à décrocher des stages et des emplois dans le secteur du développement web."
+    },
+    {
+        "question": "Quels sont les projets notables réalisés par les étudiants de l'école de la plateforme dans le cadre de leur formation de concepteur-développeur web ?",
+        "answer": "Les étudiants ont créé des sites web interactifs, des applications web personnalisées pour des clients fictifs, des solutions e-commerce avec des systèmes de paiement intégrés, et ont contribué à des projets open source pour enrichir leur portfolio."
+    },
+    {
+        "question": "Quelles sont les conditions d'entrée pour la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "L'entrée en 2ème ou 3ème année nécessite de passer des tests supplémentaires et de présenter un dossier ainsi que des cas concrets dans la spécialisation choisie. Les sessions de rentrée en janvier ne se font qu'en première année en version short track, avec un rythme intensif pour rejoindre la 2ème année dès le septembre suivant en alternance. Les entrées en 2ème et 3ème année de Bachelor ne sont accessibles que sur les rentrées de septembre."
+    },
+    {
+        "question": "Quel est le titre de certification délivré par la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "La formation délivre un titre RNCP Concepteur développeur d’applications de niveau 6 européen (équivalent BAC +3). Le code de certification est RNCP31678, certifié par le Ministère du Travail du Plein Emploi et de l'Insertion."
+    },
+    {
+        "question": "Quels sont les objectifs principaux de la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "Les principaux objectifs sont : développer une expertise en développement informatique dédié à l’image avec les langages C++ et C#, utiliser les moteurs de rendu tels que UNITY 3D, UNREAL ENGINE, GODOT, 3DVerse, maîtriser la création 3D avancée, et collaborer efficacement dans des environnements pluridisciplinaires pour les industries créatives et les industries 4.0."
+    },
+    {
+        "question": "Quels sont les débouchés professionnels après la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "Les débouchés incluent les métiers de Game programmer, Gameplay programmer, Engine programmer, Créateur d’expériences immersives, Ingénieur développeur en réalité virtuelle, Animateur 3D et Tech Artist. Les secteurs qui recrutent sont les systèmes immersifs (réalité virtuelle, réalité augmentée, réalité mixte), les jeux vidéo, l’animation 2D/3D et les industries créatives."
+    },
+    {
+        "question": "Quelles sont les modalités de la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "La première année se déroule entièrement à l'école. Les 2ème et 3ème années suivent un rythme alterné : deux semaines en entreprise puis une semaine à l'école. Le modèle pédagogique est basé sur le Student Adaptive Learning, adapté à chaque élève. La formation est gratuite pour les apprenants, et ils sont rémunérés pendant la période d'alternance."
+    },
+    {
+        "question": "Quelles sont les compétences techniques développées lors de la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "Les compétences techniques incluent le développement en C++/C#, la création et l'animation 2D/3D, le traitement d'images, l'utilisation de moteurs comme Unity 3D et Unreal Engine, ainsi que des compétences avancées en développement informatique pour les industries créatives et la réalité virtuelle."
+    },
+    {
+        "question": "Comment se déroule la sélection pour la formation Développeur systèmes immersifs et image numérique à l'École Informatique La Plateforme ?",
+        "answer": "Après dépôt de candidature, vous passerez un test de sélection et participerez à un entretien visant à évaluer votre adéquation avec le modèle pédagogique de l’école. L'accès est possible directement en BAC+2, et pour le BAC+3, un dossier et un test démontrant vos acquis seront requis, suivis d’entretiens avec les responsables pédagogiques."
+    },
+    {
+        "question": "Quelle est la reconnaissance officielle de La Plateforme ?",
+        "answer": "La Plateforme est reconnue Établissement d’Enseignement Supérieur Technique Privé de l’académie Provence Alpes Côte d’Azur, enregistré sous le numéro 01344255."
+    },
+    {
+        "question": "Quels sont les réseaux et initiatives dont La Plateforme fait partie ?",
+        "answer": "La Plateforme est membre du réseau GEN et de l’initiative La Plateforme Marseille."
+    },
+    {
+        "question": "La Plateforme est-elle certifiée qualité ?",
+        "answer": "Oui, La Plateforme Marseille a obtenu la certification qualité depuis le 18 septembre 2020 pour les actions de formation, et La Plateforme Formation a obtenu la certification qualité depuis le 23 mai 2022 pour les actions de formation par apprentissage."
+    },
+    {
+        "question": "La Plateforme soutient-elle des projets Open Source ?",
+        "answer": "Oui, La Plateforme est membre de l’April, soutient et contribue à des projets Open Source."
+    },
+    {
+        "question": "Qu'est-ce que l'April ?",
+        "answer": "L’April est une association pionnière du logiciel libre en France qui démocratise la diffusion du logiciel libre et des standards ouverts auprès du grand public, des professionnels et des institutions."
+    },
+    {
+        "question": "La Plateforme est-elle membre de l’AFCDP ?",
+        "answer": "Oui, La Plateforme est membre de l’AFCDP, l’Association Française des Correspondants à la protection des Données à caractère Personnel, qui regroupe les Délégués à la protection des données (DPO) et tous les professionnels de la conformité, RGPD, CNIL."
+    },
+    {
+        "question": "La formation est-elle accessible aux personnes handicapées à La Plateforme ?",
+        "answer": "Oui, la formation est accessible aux personnes handicapées. L’école est équipée d’un ascenseur pour accéder aux étages et adapte les moyens de la prestation."
+    },
+    {
+        "question": "Qui est le fondateur de La Plateforme ?",
+        "answer": "Le fondateur de La Plateforme est Cyril Zimmermann."
+    },
+    {
+        "question": "Qui est le président du Top20 ?",
+        "answer": "Le président du Top20 est Denis Philipon."
+    },
+    {
+        "question": "Comment contacter La Plateforme ?",
+        "answer": "Vous pouvez contacter La Plateforme au numéro de téléphone 04.84.89.43.69 ou visiter l'adresse suivante : 8 rue d’Hozier, 13002 Marseille."
+    },
+    {
+        "question": "Qui est le référent handicap à La Plateforme ?",
+        "answer": "Le référent handicap à La Plateforme est Jessica Soriano."
+    },
+    {
+        "question": "Quelles sont les conditions d'entrée pour la formation en intelligence artificielle à l'École La Plateforme ?",
+        "answer": "L'entrée en 2ème ou 3ème année nécessite de passer des tests supplémentaires et de présenter un dossier ainsi que des cas concrets dans la spécialisation choisie. Les entrées en 2ème et 3ème année de Bachelor ne sont accessibles que sur les rentrées de septembre."
+    },
+    {
+        "question": "Quel est le titre de certification délivré par la formation bachelor en intelligence artificielle à l'École Informatique La Plateforme ?",
+        "answer": "La formation délivre un titre RNCP Développeur en intelligence artificielle de niveau 6 européen (équivalent BAC +3). Le code de certification est RNCP35141, certifié par le Ministère du Travail du Plein Emploi et de l'Insertion."
+    },
+    {
+        "question": "Quels sont les objectifs principaux de la formation en intelligence artificielle à l'École Informatique La Plateforme ?",
+        "answer": "Les principaux objectifs sont : analyser et traiter des données numériques pour l’IA, programmer pour l’intelligence artificielle, utiliser des algorithmes de machine learning, et visualiser les données pour présenter et valoriser les résultats."
+    },
+    {
+        "question": "Quels sont les débouchés professionnels après la formation en intelligence artificielle à l'École Informatique La Plateforme ?",
+        "answer": "Les débouchés incluent les métiers de Développeur en IA, Consultant en IA, Data Analyst, Data Scientist, Machine Learning Engineer, entre autres. Les secteurs qui recrutent sont variés, incluant l'administration publique, les technologies et services de l’information, les banques, les hôpitaux et la santé, ainsi que les assurances."
+    },
+    {
+        "question": "Quelles sont les modalités de la formation en intelligence artificielle à l'École Informatique La Plateforme ?",
+        "answer": "La formation se déroule en alternance à 60% en école et 40% en entreprise (voir le site de l'école pour plus de détails). Les frais de scolarité sont de 0€."
+    },
+    {
+        "question": "Quelles sont les compétences techniques développées lors de la formation en intelligence artificielle à l'École Informatique La Plateforme ?",
+        "answer": "Les compétences incluent la manipulation de bases de données, la programmation (front-end et back-end web), l'utilisation de Linux et du shell scripting, la création de montages vidéos, la modélisation statistique, et bien d'autres compétences liées au développement et à l'algorithmie."
+    },
+    {
+        "question": "Comment se déroule la sélection pour la formation en intelligence artificielle à l'École Informatique La Plateforme ?",
+        "answer": "Vous recevrez un test de sélection et participerez à un entretien éventuel pour déterminer l’adéquation entre votre profil et le modèle pédagogique de l’école. L'accès direct en BAC+2 est possible, et pour le BAC+3, un dossier et test démontrant vos acquis vous seront demandés, suivis d’entretiens avec les responsables pédagogiques."
+    },
+    {
+        "question": "Quel est l'objectif principal de l'Innovation Lab 'Habiter Demain' ?",
+        "answer": "L'objectif principal est de former des chefs de projets capables de piloter la recherche de solutions innovantes et durables à des problèmes complexes dans le domaine urbain ou de l'habitat."
+    },
+    {
+        "question": "Quels sont les pré-requis pour intégrer l'Innovation Lab 'Habiter Demain' ?",
+        "answer": "La formation est ouverte aux jeunes diplômés, professionnels en activité ou en reconversion, et porteurs de projet souhaitant renforcer leurs compétences en pilotage de projets innovants."
+    },
+    {
+        "question": "Où se déroule la formation de l'Innovation Lab 'Habiter Demain' ?",
+        "answer": "La formation se déroule à La Plateforme, Marseille."
+    },
+    {
+        "question": "Quelle est la durée de la formation 'Habiter Demain' ?",
+        "answer": "La formation dure 18 semaines."
+    },
+    {
+        "question": "Quelles sont les modalités d’apprentissage pour la formation 'Habiter Demain' ?",
+        "answer": "La formation nécessite une présence physique de 4 jours par semaine, avec certaines séquences pouvant avoir lieu en ligne. Elle est conçue comme un bootcamp intensif."
+    },
+    {
+        "question": "Quelle est la langue de travail pour la formation 'Habiter Demain' ?",
+        "answer": "La langue de travail est le français."
+    },
+    {
+        "question": "Quel est le coût de la formation 'Habiter Demain' ?",
+        "answer": "La formation est gratuite."
+    },
+    {
+        "question": "Comment se déroule la sélection des candidats pour la formation 'Habiter Demain' ?",
+        "answer": "La sélection se fait sur dossier et entretien."
+    },
+    {
+        "question": "Quelles compétences les participants acquièrent-ils à l'issue de la formation 'Habiter Demain' ?",
+        "answer": "Les participants seront capables de piloter un projet complexe d’innovation responsable et auront acquis des compétences spécifiques pour travailler dans des projets en lien avec la Fabrique de la Ville."
+    },
+    {
+        "question": "Qui sont les intervenants de l'Innovation Lab 'Habiter Demain' ?",
+        "answer": "Le programme intègre des intervenants de haut niveau, dévoilés dans les semaines à venir."
+    },
+    {
+        "question": "Quels sont les principaux thèmes abordés dans la phase d'exploration de la formation 'Habiter Demain' ?",
+        "answer": "Les thèmes incluent l’analyse de problématiques complexes, l’observation du terrain, la rencontre des usagers et des parties prenantes."
+    },
+    {
+        "question": "Quels sont les principaux thèmes abordés dans la phase d’idéation de la formation 'Habiter Demain' ?",
+        "answer": "Les thèmes incluent le design fiction, le design service, et la visualisation des scénarios."
+    },
+    {
+        "question": "Quels sont les principaux thèmes abordés dans la phase de prototypage de la formation 'Habiter Demain' ?",
+        "answer": "Les thèmes incluent le maquettage de concepts en groupe interdisciplinaire et le test et itération avec les usagers."
+    },
+    {
+        "question": "Quels sont les principaux thèmes abordés dans la phase de documentation de la formation 'Habiter Demain' ?",
+        "answer": "Les thèmes incluent la rédaction de notes de concept et le pitch des résultats."
+    },
+    {
+        "question": "Comment puis-je être informé de l'ouverture des futures inscriptions pour la formation 'Réseaux sociaux de demain & web décentralisé // Innovation Lab' à La Plateforme?",
+        "answer": "Vous pouvez nous laisser votre contact par email et nous nous assurerons de vous notifier en temps voulu."
+    },
+    {
+        "question": "Quels sont les objectifs de l'Innovation Lab à La Plateforme?",
+        "answer": "Explorer des problématiques concrètes sur le WEB 3 et le futur des réseaux sociaux, et imaginer de nouvelles formes de réseaux sociaux décentralisés qui répondent aux besoins spécifiques de communautés locales."
+    },
+    {
+        "question": "Quels sont les thèmes explorés par les apprenants du Lab « Réseaux sociaux de demain & web décentralisé » à La Plateforme?",
+        "answer": "Les apprenants travailleront sur des thématiques comme la protection des relations et de la vie privée, la légitimité des informations publiées sur les réseaux sociaux, et les perspectives ouvertes par le web décentralisé sur l’autogestion et les usages sur mesure."
+    },
+    {
+        "question": "Quel est le format de la formation 'Réseaux sociaux de demain & web décentralisé // Innovation Lab' à La Plateforme?",
+        "answer": "La formation est un programme hybride : 11 semaines en distanciel et 4 semaines à La Plateforme, Marseille."
+    },
+    {
+        "question": "Quels sont les frais de scolarité pour la formation 'Réseaux sociaux de demain & web décentralisé // Innovation Lab' à La Plateforme?",
+        "answer": "Les frais de scolarité sont gratuits, et le transport ainsi que l'hébergement sont couverts pour les semaines de formation à Marseille."
+    },
+    {
+        "question": "Quels profils sont recherchés pour la formation 'Réseaux sociaux de demain & web décentralisé // Innovation Lab' à La Plateforme?",
+        "answer": "Jeunes diplômés en phase d’insertion professionnelle, professionnels en reconversion, chercheurs, freelance... Nous sélectionnons des profils complémentaires pour former des équipes interdisciplinaires. Les résident(e)s européen(ne)s, ayant une expérience correspondante aux profils recherchés sont invité(e)s à postuler."
+    },
+    {
+        "question": "Quels sont les intervenants de la formation 'Réseaux sociaux de demain & web décentralisé // Innovation Lab' à La Plateforme et leur expertise?",
+        "answer": "Le programme intègre des intervenants internationaux de haut niveau, tels que Marie-Cécile Godwin (Designer critique, chercheuse UX), Matthew Edgson (Cinéaste, Designer), Elvire Duvelle-Charles (Activiste, journaliste), Kheira Belkacem (Experte en recherche utilisateur), Juan Gomez (Designer, chercheur en design), Isadora Bigourdan (Project manager, presentation coach), Jon C Flint (Créateur, éducateur), Sarah Friend (Artiste et ingénieure en logiciel), Miller Klitsner (Artiste et développeur de jeux), Alexia (Communication & social sustainability designer), Nicolas Nova (Cultural anthropologist, ethnographer), David Benqué (Designer, researcher), Justin Pickard (Editor and independent researcher), et Vytas Jankauskas (Responsable de formation)."
+    },
+    {
+        "question": "Quels sont les principaux objectifs de la formation Développeur Logiciel à l'École Informatique La Plateforme ?",
+        "answer": "La formation vise à développer une expertise en langages embarqués, à maîtriser les architectures complexes, et à préparer les étudiants aux métiers de développement logiciel et DevOps dans des secteurs industriels avancés."
+    },
+    {
+        "question": "Quels sont les prérequis et les conditions d'admission pour la formation de Développeur Logiciel à La Plateforme ?",
+        "answer": "L'accès direct est possible en BAC+2, avec la possibilité d'entrer en BAC+3 après un test et l'étude d'un dossier démontrant les acquis nécessaires. Des entretiens avec les responsables pédagogiques complètent le processus de sélection."
+    },
+    {
+        "question": "Comment se déroule le programme de la première année de la formation de Développeur Logiciel à La Plateforme ?",
+        "answer": "La première année inclut une phase d'initiation et de découverte en IT, avec des unités sur le matériel, les systèmes et les réseaux, ainsi que des projets de maquettage d'applications et de développement d'interfaces utilisateur."
+    },
+    {
+        "question": "Quelles sont les spécialisations disponibles au cours de la formation de Développeur Logiciel à La Plateforme ?",
+        "answer": "Les étudiants peuvent se spécialiser en développement logiciel (JEE, C#), architecture logicielle, développement embarqué (C/C++), sécurité des applications, DevOps, ingénierie logicielle, et développement mobile."
+    },
+    {
+        "question": "Comment l'école La Plateforme prépare-t-elle ses étudiants à la réalité du marché du travail dans le domaine du développement logiciel ?",
+        "answer": "L'école offre une formation en alternance avec deux semaines en entreprise et une semaine à l'école, permettant aux étudiants d'acquérir une expérience professionnelle et de développer des compétences pratiques adaptées aux besoins des entreprises."
+    },
+    {
+        "question": "Quels sont les débouchés professionnels typiques pour les diplômés de la formation de Développeur Logiciel à La Plateforme ?",
+        "answer": "Les diplômés peuvent accéder à des postes de développeur logiciel, architecte logiciel, développeur embarqué, spécialiste en sécurité informatique, DevOps, ingénieur logiciel, et développeur mobile, notamment dans les secteurs de l'édition de logiciels, des services numériques, du e-commerce, et de l'intelligence artificielle."
+    },
+    {
+        "question": "Quelles sont les compétences non techniques importantes enseignées dans le cadre de la formation de Développeur Logiciel à La Plateforme ?",
+        "answer": "En plus des compétences techniques, l'école met l'accent sur la gestion de projet, le développement de micro services, la sécurité du développement, le déploiement continu, la supervision de la qualité, et les tests unitaires."
+    },
+    {
+        "question": "Quelle est la certification obtenue à la fin de la formation de Développeur Logiciel à La Plateforme ?",
+        "answer": "Les étudiants obtiennent un titre RNCP Concepteur développeur d’applications de niveau 6 européen, équivalent à un BAC+3, certifié par le Ministère du Travail, du Plein Emploi et de l'Insertion (code certification : RNCP31678)."
+    },
+    {
+        "question": "Comment l'école La Plateforme intègre-t-elle les dernières technologies et tendances dans son programme de formation de Développeur Logiciel ?",
+        "answer": "Le programme est régulièrement mis à jour pour inclure les technologies émergentes comme l'Intelligence Artificielle, les architectures logicielles complexes, et les pratiques DevOps, afin de préparer les étudiants aux défis actuels du marché du travail."
+    },
+    {
+        "question": "Quelles sont les particularités du modèle pédagogique de l'école La Plateforme pour la formation de Développeur Logiciel ?",
+        "answer": "Le modèle est actif, inductif, orienté projet, et centré sur l'apprenant. Il inclut des formateurs et intervenants professionnels qualifiés, une pédagogie innovante, et une formation gratuite sans compromettre la qualité."
+    },
+    {
+        "question": "Quels sont les avantages spécifiques de suivre la formation de Développeur Logiciel à l'école La Plateforme par rapport à d'autres programmes similaires ?",
+        "answer": "L'école offre des places limitées avec des frais de scolarité à 0€, une première année intensive suivie d'une alternance enrichissante, et un réseau d'entreprises partenaires facilitant l'insertion professionnelle des diplômés."
+    }
+]
