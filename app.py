@@ -13,6 +13,7 @@ client = OpenAI(api_key=api_key)
 
 # Historique des discussions
 chat_history = []
+MAX_HISTORY = 5  # Limite du nombre d'échanges dans l'historique
 
 @app.route('/')
 def home():
@@ -24,9 +25,12 @@ def send_prompt():
     prompt = data.get('prompt')
     if prompt:
         
+        # Limiter l'historique aux N derniers échanges
+        limited_history = chat_history[-MAX_HISTORY:]
+        
         # Construire le contexte en ajoutant l'historique des échanges
         context = ""
-        for entry in chat_history:
+        for entry in limited_history:
             context += f"Vous: {entry['prompt']}\nGPT-3: {entry['response']}\n"
         context += f"Vous: {prompt}\nGPT-3:"
         
