@@ -7,7 +7,7 @@ import time
 app = Flask(__name__)
 
 # Remplacez 'YOUR_API_KEY' par votre clé API OpenAI
-api_key = "sk-chatbot-laplateforme-KI6mKyf49FQFrS0PdziET3BlbkFJdsGYf6WRMkr2ZEAfUkTK"
+api_key = "YOUR_API_KEY"
 
 client = OpenAI(api_key=api_key)
 
