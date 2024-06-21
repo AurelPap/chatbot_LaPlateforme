@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify, render_template
 import openai
 from openai import OpenAI
+import threading
+import time
 
 app = Flask(__name__)
 
@@ -8,6 +10,9 @@ app = Flask(__name__)
 api_key = "YOUR_API_KEY"
 
 client = OpenAI(api_key=api_key)
+
+# Historique des discussions
+chat_history = []
 
 @app.route('/')
 def home():
@@ -24,8 +29,19 @@ def send_prompt():
             max_tokens=100,
             temperature=0.2
         )
-        return jsonify(response.choices[0].text.strip())
+        
+        reply = response.choices[0].text.strip()
+        
+        # Ajouter le prompt et la réponse à l'historique
+        chat_history.append({"prompt": prompt, "response": reply})
+        
+    
+        return jsonify(reply)
     return jsonify({"error": "No prompt provided"}), 400
+
+@app.route('/get_history', methods=['GET'])
+def get_history():
+    return jsonify(chat_history)
 
 if __name__ == '__main__':
     app.run(debug=True)

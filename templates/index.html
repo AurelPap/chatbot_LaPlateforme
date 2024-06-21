@@ -14,7 +14,7 @@
             height: 100px;
             margin-bottom: 10px;
         }
-        #response {
+        #response, #history {
             margin-top: 20px;
             padding: 10px;
             border: 1px solid #ddd;
@@ -27,6 +27,8 @@
     <textarea id="prompt" placeholder="Écrivez votre prompt ici..."></textarea><br>
     <button onclick="sendPrompt()">Envoyer</button>
     <div id="response"></div>
+    <h2>Historique des discussions</h2>
+    <div id="history"></div>
 
     <script>
         async function sendPrompt() {
@@ -44,7 +46,26 @@
 
             const result = await response.json();
             responseDiv.innerHTML = result.error ? result.error : result;
+
+            // Mettre à jour l'historique
+            await fetchHistory();
         }
+
+        async function fetchHistory() {
+            const historyDiv = document.getElementById('history');
+            const response = await fetch('/get_history');
+            const history = await response.json();
+            
+            historyDiv.innerHTML = '';
+            history.forEach(entry => {
+                const entryDiv = document.createElement('div');
+                entryDiv.innerHTML = `<strong>Vous:</strong> ${entry.prompt}<br><strong>GPT-3:</strong> ${entry.response}`;
+                historyDiv.appendChild(entryDiv);
+            });
+        }
+
+        // Charger l'historique au chargement de la page
+        window.onload = fetchHistory;
     </script>
 </body>
 </html>
