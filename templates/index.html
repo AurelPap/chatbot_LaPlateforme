@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPT-3 Prompt Interface</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+            margin-bottom: 10px;
+        }
+        #response {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Envoyer un Prompt à GPT-3</h1>
+    <textarea id="prompt" placeholder="Écrivez votre prompt ici..."></textarea><br>
+    <button onclick="sendPrompt()">Envoyer</button>
+    <div id="response"></div>
+
+    <script>
+        async function sendPrompt() {
+            const prompt = document.getElementById('prompt').value;
+            const responseDiv = document.getElementById('response');
+            responseDiv.innerHTML = 'Chargement...';
+            
+            const response = await fetch('/send_prompt', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ prompt })
+            });
+
+            const result = await response.json();
+            responseDiv.innerHTML = result.error ? result.error : result;
+        }
+    </script>
+</body>
+</html>
