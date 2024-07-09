@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "question": "Quelles sont les spécialisations disponibles à La Plateforme à Marseille ?",
+      "answer": "La Plateforme à Marseille propose plusieurs spécialisations telles que Concepteur développeur web, Développeur logiciel / DevOps, Administrateur sécurité et Développeur spécialiste I.A.",
+      "tags": [
+        "formation(dev)",
+        "formation(cybersecurite)",
+        "formation(ia)"
+      ]
+    },
+
+  ]
+}

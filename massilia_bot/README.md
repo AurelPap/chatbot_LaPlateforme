@@ -1,0 +1,28 @@
+app lancée sur mon compte aws perso
+
+env : discord_bot
+
+aiohttp==3.9.5
+aiosignal==1.3.1
+annotated-types==0.7.0
+anyio==4.4.0
+async-timeout==4.0.3
+attrs==23.2.0
+certifi==2024.6.2
+discord==2.3.2
+discord.py==2.4.0
+distro==1.9.0
+exceptiongroup==1.2.1
+frozenlist==1.4.1
+h11==0.14.0
+httpcore==1.0.5
+httpx==0.27.0
+idna==3.7
+multidict==6.0.5
+openai==1.35.7
+pydantic==2.7.4
+pydantic_core==2.18.4
+sniffio==1.3.1
+tqdm==4.66.4
+typing_extensions==4.12.2
+yarl==1.9.4
