@@ -155,26 +155,5 @@ async def get_room(ctx, max_users: int = 1):
         await ctx.send("No eligible students found to invite.")
 
 
-
-# async def on_message(message):
-#     if message.author.bot:
-#         return  # Ignore messages from bots
-
-#     # Command to give roles based on a specific message
-#     if message.content.startswith('!giverole'):
-#         if "Staff" in [role.name for role in message.author.roles]:
-#             if "Staff" not in message.content.lower():
-#                 student_role = discord.utils.get(message.guild.roles, name="Student")
-
-
-#             elif "msc2logiciel" in message.content.lower():
-
-#                 msc2_role = discord.utils.get(message.guild.roles, name="MSC2")
-#                 logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
-#                 await message.author.add_roles(student_role, msc2_role, logiciel_role)
-#                 await message.channel.send(f"{message.author.mention} est désormais étudiant en Deuxième année de Master Logiciel !")
-
-
-
 # Lancer le bot
 bot.run('DISCORD Token')
