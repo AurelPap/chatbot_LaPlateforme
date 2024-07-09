@@ -2,6 +2,7 @@ import discord
 import openai
 from openai import OpenAI
 from discord.ext import commands
+import random as r
 
 intents = discord.Intents.all()
 intents.messages = True  # Active l'intention pour les événements de message
@@ -10,7 +11,7 @@ intents.messages = True  # Active l'intention pour les événements de message
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Configuration OpenAI
-api_key = 'TOKEN HERE'
+api_key = 'API KEY'
 model_name = 'gpt-3.5-turbo-instruct'
 
 client_GPT = OpenAI(api_key=api_key)
@@ -52,141 +53,128 @@ async def on_member_join(member):
     # Assign roles to new members upon joining
     visitor_role = discord.utils.get(member.guild.roles, name="Visitor")
 
-    await member.add_roles(visitor_role)
+    if visitor_role:
+        await member.add_roles(visitor_role)
+        await member.send(f"Welcome to the server! You have been assigned the 'Visitor' role.")
 
 
-async def on_message(message):
-    if message.author.bot:
-        return  # Ignore messages from bots
 
-    # Command to give roles based on a specific message
-    if message.content.startswith('!giverole'):
-        if "Staff" in [role.name for role in message.author.roles]:
-            if "Staff" not in message.content.lower():
-                student_role = discord.utils.get(message.guild.roles, name="Student")
+# Command: Give role
+@bot.command(name="giverole")
+async def give_role(ctx, username: str, role_name: str):
+    if ctx.author == bot.user:
+        return
 
+    # Ensure the command issuer has the 'Staff' role
+    if "Staff" in [role.name for role in ctx.author.roles]:
+        # Find the member in the guild
+        member = discord.utils.get(ctx.guild.members, name=username)
+        if not member:
+            await ctx.send(f"User '{username}' not found.")
+            return
 
-            if "Staff" in message.content.lower():
-                staff_role = discord.utils.get(message.guild.roles, name="STAFF")
-                await message.author.add_roles(staff_role)
-                await message.channel.send(f"{message.author.mention} join the Staff !")
-
-            elif "b1ia" in message.content.lower():
-                b1_role = discord.utils.get(message.guild.roles, name="B1")
-                ia_role = discord.utils.get(message.guild.roles, name="IA")
-                await message.author.add_roles(student_role, b1_role, ia_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B1 IA !")
-
-            elif "b2ia" in message.content.lower():
-
-                b2_role = discord.utils.get(message.guild.roles, name="B2")
-                ia_role = discord.utils.get(message.guild.roles, name="IA")
-                await message.author.add_roles(student_role, b2_role, ia_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B2 IA !")
-
-            elif "b3ia" in message.content.lower():
-
-                b3_role = discord.utils.get(message.guild.roles, name="B3")
-                ia_role = discord.utils.get(message.guild.roles, name="IA")
-                await message.author.add_roles(student_role, b3_role, ia_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B3 IA !")
-
-            elif "msc1ia" in message.content.lower():
-
-                msc1_role = discord.utils.get(message.guild.roles, name="MSC1")
-                ia_role = discord.utils.get(message.guild.roles, name="IA")
-                await message.author.add_roles(student_role, msc1_role, ia_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en Master IA !")
-
-            elif "msc2ia" in message.content.lower():
-
-                msc2_role = discord.utils.get(message.guild.roles, name="MSC2")
-                ia_role = discord.utils.get(message.guild.roles, name="IA")
-                await message.author.add_roles(student_role, msc2_role, ia_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en Deuxième année de Master IA !")
-
-            elif "b1dev" in message.content.lower():
-
-                b1_role = discord.utils.get(message.guild.roles, name="B1")
-                dev_role = discord.utils.get(message.guild.roles, name="Dev")
-                await message.author.add_roles(student_role, b1_role, dev_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B1 Développement !")
-
-            elif "b2dev" in message.content.lower():
-
-                b2_role = discord.utils.get(message.guild.roles, name="B2")
-                dev_role = discord.utils.get(message.guild.roles, name="Dev")
-                await message.author.add_roles(student_role, b2_role, dev_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B2 Développement !")
-
-            elif "b3dev" in message.content.lower():
-
-                b3_role = discord.utils.get(message.guild.roles, name="B3")
-                dev_role = discord.utils.get(message.guild.roles, name="Dev")
-                await message.author.add_roles(student_role, b3_role, dev_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B3 Développement !")
-
-            elif "msc1dev" in message.content.lower():
-
-                msc1_role = discord.utils.get(message.guild.roles, name="MSC1")
-                dev_role = discord.utils.get(message.guild.roles, name="Dev")
-                await message.author.add_roles(student_role, msc1_role, dev_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en Master Développement !")
-
-            elif "msc2dev" in message.content.lower():
-
-                msc2_role = discord.utils.get(message.guild.roles, name="MSC2")
-                dev_role = discord.utils.get(message.guild.roles, name="Dev")
-                await message.author.add_roles(student_role, msc2_role, dev_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en Deuxième année de Master Développement !")
-
-            elif "b1logiciel" in message.content.lower():
-
-                b1_role = discord.utils.get(message.guild.roles, name="B1")
-                logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
-                await message.author.add_roles(student_role, b1_role, logiciel_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B1 Logiciel !")
-
-            elif "b2logiciel" in message.content.lower():
-
-                b2_role = discord.utils.get(message.guild.roles, name="B2")
-                logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
-                await message.author.add_roles(student_role, b2_role, logiciel_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B2 Logiciel !")
-
-            elif "b3logiciel" in message.content.lower():
-
-                b3_role = discord.utils.get(message.guild.roles, name="B3")
-                logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
-                await message.author.add_roles(student_role, b3_role, logiciel_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en B3 Logiciel !")
-
-            elif "msc1logiciel" in message.content.lower():
-
-                msc1_role = discord.utils.get(message.guild.roles, name="MSC1")
-                logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
-                await message.author.add_roles(student_role, msc1_role, logiciel_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en Master Logiciel !")
-
-            elif "msc2logiciel" in message.content.lower():
-
-                msc2_role = discord.utils.get(message.guild.roles, name="MSC2")
-                logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
-                await message.author.add_roles(student_role, msc2_role, logiciel_role)
-                await message.channel.send(f"{message.author.mention} est désormais étudiant en Deuxième année de Master Logiciel !")
-
-            else:
-                await message.channel.send("Command format incorrect. Use !giverole {formation Level(b2)}{formation Tag(ia)} or b1 or Staff.")
+        # Find the role in the guild
+        role = discord.utils.get(ctx.guild.roles, name=role_name)
+        if role:
+            await member.add_roles(role)
+            await ctx.send(f"{member.mention} has been given the '{role_name}' role!")
         else:
-            await message.channel.send("You don't have permission to use this command.")
+            await ctx.send(f"Role '{role_name}' not found.")
+    else:
+        await ctx.send("You don't have permission to use this command.")
 
-    if message.content.startswith('!GetRole'):
-        roles = [role.name for role in message.author.roles if role.name != "@everyone"]
-        if roles:
-            await message.channel.send(f"Your roles are: {', '.join(roles)}")
+@bot.command(name="getroles")
+async def get_roles(ctx):
+    roles = [role.name for role in ctx.author.roles if role.name != "@everyone"]
+    if roles:
+        await ctx.send(f"Your roles are: {', '.join(roles)}")
+    else:
+        await ctx.send("You don't have any roles.")
+
+# Command: Revoke role
+@bot.command(name="revokerole")
+async def give_role(ctx, username: str, role_name: str):
+    if ctx.author == bot.user:
+        return
+
+    # Ensure the command issuer has the 'Staff' role
+    if "Staff" in [role.name for role in ctx.author.roles]:
+        # Find the member in the guild
+        member = discord.utils.get(ctx.guild.members, name=username)
+        if not member:
+            await ctx.send(f"User '{username}' not found.")
+            return
+
+        # Find the role in the guild
+        role = discord.utils.get(ctx.guild.roles, name=role_name)
+        if role:
+            await member.add_roles(role)
+            await ctx.send(f"{member.mention} has been given the '{role_name}' role!")
         else:
-            await message.channel.send("You don't have any roles.")
+            await ctx.send(f"Role '{role_name}' not found.")
+    else:
+        await ctx.send("You don't have permission to use this command.")
+
+
+@bot.command(name="getroom")
+async def get_room(ctx, max_users: int = 1):
+    # Create a private text channel
+    if max_users > 5:
+        await ctx.send("Error: Maximum group size is 5.")
+        return
+
+
+    guild = ctx.guild
+    overwrites = {
+        guild.default_role: discord.PermissionOverwrite(read_messages=False),
+        ctx.author: discord.PermissionOverwrite(read_messages=True)
+    }
+
+    channel = await guild.create_text_channel(f"private-room-{ctx.author.name}", overwrites=overwrites)
+    await ctx.send(f"Private room created: {channel.mention}")
+
+    # Invite other users with the "STUDENT" role
+    student_role = discord.utils.get(guild.roles, name="STUDENT")
+    if not student_role:
+        await ctx.send("No 'STUDENT' role found in the server.")
+        return
+
+    students = [member for member in guild.members if student_role in member.roles and member != ctx.author]
+
+    # Shuffle the list to randomize the invitations
+    r.shuffle(students)
+
+    invited_users = []
+    for student in students[:max_users-1]:
+        await channel.set_permissions(student, read_messages=True)
+        invited_users.append(student)
+
+    if invited_users:
+        await ctx.send(f"Invited {', '.join([user.mention for user in invited_users])} to the private room.")
+    else:
+        await ctx.send("No eligible students found to invite.")
+
+
+
+# async def on_message(message):
+#     if message.author.bot:
+#         return  # Ignore messages from bots
+
+#     # Command to give roles based on a specific message
+#     if message.content.startswith('!giverole'):
+#         if "Staff" in [role.name for role in message.author.roles]:
+#             if "Staff" not in message.content.lower():
+#                 student_role = discord.utils.get(message.guild.roles, name="Student")
+
+
+#             elif "msc2logiciel" in message.content.lower():
+
+#                 msc2_role = discord.utils.get(message.guild.roles, name="MSC2")
+#                 logiciel_role = discord.utils.get(message.guild.roles, name="Logiciel")
+#                 await message.author.add_roles(student_role, msc2_role, logiciel_role)
+#                 await message.channel.send(f"{message.author.mention} est désormais étudiant en Deuxième année de Master Logiciel !")
+
 
 
 # Lancer le bot
-bot.run('TOKEN HERE')
+bot.run('DISCORD Token')
