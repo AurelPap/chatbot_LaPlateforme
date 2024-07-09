@@ -1,0 +1,115 @@
+body {
+    background-color: #0062ff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    color: #7272ff;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+    background-color: white;
+    color: #7272ff;
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+header > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+header h1, header h3 {
+    margin: 0;
+    text-align: center;
+    color: #7272ff;
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+    #logo {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+    margin: 10px 20px;
+}
+
+#history {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #a0c4ff;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.input-area {
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    width: 80%;
+    height: 40px; /* Reduced height */
+    margin: 5px 0;
+    padding: 5px; /* Reduced padding */
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+button {
+    padding: 5px 10px; /* Reduced padding */
+    font-size: 0.9em; /* Reduced font size */
+    background-color: #e74a34;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+button:hover {
+    background-color: #c43b29;
+}
+
+footer {
+    background-color: white;
+    color: #7272ff;
+    text-align: left;
+    padding: 2px 20px;
+    font-style: italic; 
+}
