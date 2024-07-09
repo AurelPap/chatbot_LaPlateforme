@@ -7,35 +7,67 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 50px;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+        }
+        #history {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            border-bottom: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+        .input-area {
+            padding: 20px;
+            border-top: 1px solid #ddd;
+            background-color: #fff;
         }
         textarea {
             width: 100%;
             height: 100px;
             margin-bottom: 10px;
         }
-        #response, #history {
-            margin-top: 20px;
+        button {
+            display: block;
+            width: 100%;
             padding: 10px;
-            border: 1px solid #ddd;
-            background-color: #f9f9f9;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 <body>
-    <h1>Envoyer un Prompt à GPT-3</h1>
-    <textarea id="prompt" placeholder="Écrivez votre prompt ici..."></textarea><br>
-    <button onclick="sendPrompt()">Envoyer</button>
-    <div id="response"></div>
-    <h2>Historique des discussions</h2>
-    <div id="history"></div>
+    <div id="history">Aucun historique disponible.</div>
+    <div class="input-area">
+        <h1>Envoyer un Prompt à GPT-3</h1>
+        <textarea id="prompt" placeholder="Écrivez votre prompt ici..." onkeydown="checkForEnter(event)"></textarea><br>
+        <button onclick="sendPrompt()">Envoyer</button>
+    </div>
 
     <script>
+        function checkForEnter(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                sendPrompt();
+            }
+        }
+
         async function sendPrompt() {
             const prompt = document.getElementById('prompt').value;
-            const responseDiv = document.getElementById('response');
-            responseDiv.innerHTML = 'Chargement...';
             
+            // Vérifier si le prompt n'est pas vide
+            if (prompt.trim() === "") {
+                alert("Veuillez entrer un prompt.");
+                return;
+            }
+
             const response = await fetch('/send_prompt', {
                 method: 'POST',
                 headers: {
@@ -45,7 +77,9 @@
             });
 
             const result = await response.json();
-            responseDiv.innerHTML = result.error ? result.error : result;
+
+            // Vider l'aire de texte après l'envoi du prompt
+            document.getElementById('prompt').value = "";
 
             // Mettre à jour l'historique
             await fetchHistory();
@@ -56,12 +90,19 @@
             const response = await fetch('/get_history');
             const history = await response.json();
             
-            historyDiv.innerHTML = '';
-            history.forEach(entry => {
-                const entryDiv = document.createElement('div');
-                entryDiv.innerHTML = `<strong>Vous:</strong> ${entry.prompt}<br><strong>GPT-3:</strong> ${entry.response}`;
-                historyDiv.appendChild(entryDiv);
-            });
+            if (history.length === 0) {
+                historyDiv.innerHTML = 'Aucun historique disponible.';
+            } else {
+                historyDiv.innerHTML = '';
+                history.forEach(entry => {
+                    const entryDiv = document.createElement('div');
+                    entryDiv.innerHTML = `<strong>Vous:</strong> ${entry.prompt}<br><strong>GPT-3:</strong> ${entry.response}`;
+                    historyDiv.appendChild(entryDiv);
+                });
+            }
+
+            // Scroll vers le bas
+            historyDiv.scrollTop = historyDiv.scrollHeight;
         }
 
         // Charger l'historique au chargement de la page
