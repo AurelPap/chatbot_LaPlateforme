@@ -1,6 +1,6 @@
 # MongoDB connection string
 ### Adriana
-# MONGODB_URI = "mongodb+srv://adrianasaroux:g8hb2hTBR73PpPJ1@massalia.syecpyc.mongodb.net/?retryWrites=true&w=majority&appName=Massalia"
+# MONGODB_URI = ""
 ### Massilia
 MONGODB_URI = "TOKEN HERE"
 
